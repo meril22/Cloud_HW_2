@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Laptop\source\repos\schedule_task\schedule_task\main.cpp(58,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Laptop\source\repos\schedule_task\schedule_task\main.cpp(86,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Laptop\source\repos\schedule_task\schedule_task\main.cpp(124,17): warning C4018:  '<': signed/unsigned mismatch
+  schedule_task.vcxproj -> C:\Users\Laptop\source\repos\schedule_task\Debug\schedule_task.exe
