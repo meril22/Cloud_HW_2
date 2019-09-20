@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Laptop\source\repos\Maekawa's_Algo\Project4\NodeRequesting.h(74,8): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Laptop\source\repos\Maekawa's_Algo\Project4\main.cpp(18,16): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Project4.vcxproj -> C:\Users\Laptop\source\repos\Maekawa's_Algo\Debug\Maekawa's_Algo.exe
